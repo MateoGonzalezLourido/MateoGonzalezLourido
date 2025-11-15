@@ -41,7 +41,7 @@
   </a>
 </tr>
 <tr>
-  <td align="center">Weeb tools & frameworks</td>
+  <td align="center">Web tools & frameworks</td>
   <td>
     <a title="Astro" href="https://astro.build/" target="_blank">
       <img src="https://img.shields.io/badge/Astro-242424?style=for-the-badge&logo=astro&logoSize=64" alt="Astro">
