@@ -36,9 +36,6 @@
   <a title="CSS3" href="https://en.wikipedia.org/wiki/CSS#CSS_3" target="_blank">
        <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   </a>
-  <a title="JQuery" href="https://jquery.com/" target="_blank">
-                <img src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery"/>
-  </a>
 </tr>
 <tr>
   <td align="center">Web tools & frameworks</td>
@@ -51,6 +48,13 @@
     </a>
     <a title="Tailwind" href="https://tailwindcss.com/" target="_blank">
       <img src="https://img.shields.io/badge/Tailwind-242424?style=for-the-badge&logo=tailwindcss&logoSize=64" alt="Tailwind">
+    </a>
+    <a title="Node.js" href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  </a>
+
+      <a title="JQuery" href="https://jquery.com/" target="_blank">
+                <img src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery"/>
     </a>
   </td>
 </tr>
