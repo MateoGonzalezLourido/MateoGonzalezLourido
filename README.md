@@ -95,7 +95,7 @@
     </tr>
 </table>
 
-<font style="color=gray">&This is a basic and temporary readme&</font>
+<font style="color=#C4C4C4">&This is a basic and temporary readme&</font>
 
 [gh_profile]: <https://github.com/mateogonzalezlourido>
 </div>
