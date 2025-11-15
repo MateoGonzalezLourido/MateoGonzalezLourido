@@ -95,7 +95,7 @@
     </tr>
 </table>
 
-<i>&This is a basic and temporary readme&</i>
+<i>🌸This is a basic and temporary readme🌸</i>
 
 [gh_profile]: <https://github.com/mateogonzalezlourido>
 </div>
