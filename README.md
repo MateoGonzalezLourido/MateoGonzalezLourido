@@ -89,6 +89,9 @@
             <a title="IntelliJ IDEA" href="https://www.jetbrains.com/idea/" target="_blank">
                 <img src="https://img.shields.io/badge/intellij%20idea-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
             </a>
+          <a title="RStudio" href="https://www.rstudio.com/" target="_blank">
+        <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/>
+      </a>
         </td>
     </tr>
 </table>
