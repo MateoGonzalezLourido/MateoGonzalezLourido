@@ -1,16 +1,89 @@
-## Hi there 👋
+<div id="content" align="center"> 
+  
+  <!-- imagen de Flaming-->
+<a target="_top" href="https://www.flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2025/11/13/flamingtext_com_1763033474_956242197.png" border="0" alt="HAPPY NEW DAY" title="Logo Design by FlamingText.com"></a>
+<!-- https://github.com/denvercoder1/readme-typing-svg -->
+[![Welcome to my GitHub profile!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=5000&color=2791F5&center=true&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub+profile!)][gh_profile]
+## My GitHub stats
 
-<!--
-**MateoGonzalezLourido/MateoGonzalezLourido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateogonzalezlourido&layout=compact&theme=dark&langs_count=8&hide=Jupyter%20Notebook&exclude_repo=MUNICS-SAPP-P1,MUNICS-SAPP-P2,MUNICS-BC-Practica1,manual-supervivencia-fic)][gh_profile] 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+
+<tr>
+  <td>Programming language</td>
+  <td>
+    <a title="Python" href="https://www.python.org/" target="_blank">
+                <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    </a>
+     <a title="C" href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+                <img src="https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    </a>
+     <a title="JavaScript" href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
+                <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>    
+     </a>
+  </td>
+</tr>
+<tr>
+<td align="center">Web Design</td>
+  <td align="center">
+  <a title="HTML5" href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+       <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+  <a title="CSS3" href="https://en.wikipedia.org/wiki/CSS#CSS_3" target="_blank">
+       <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
+  <a title="JQuery" href="https://jquery.com/" target="_blank">
+                <img src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery"/>
+  </a>
+</tr>
+<tr>
+  <td align="center">Weeb tools & frameworks</td>
+  <td>
+    <a title="Astro" href="https://astro.build/" target="_blank">
+      <img src="https://img.shields.io/badge/Astro-242424?style=for-the-badge&logo=astro&logoSize=64" alt="Astro">
+    </a>
+    <a title="Vite" href="https://vite.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Vite-242424?style=for-the-badge&logo=vite&logoSize=64" alt="Vite">
+    </a>
+    <a title="Tailwind" href="https://tailwindcss.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Tailwind-242424?style=for-the-badge&logo=tailwindcss&logoSize=64" alt="Tailwind">
+    </a>
+  </td>
+</tr>
+<tr>
+  <td>Data</td>
+  <td>
+     <a title="Supabase" href="https://supabase.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Supabase-242424?style=for-the-badge&logo=supabase&logoSize=64" alt="Supabase">
+    </a>
+  </td>
+</tr>
+ <tr>
+        <td align="center">Operating Systems</td>
+        <td align="center">
+            <a title="Debian" href="https://www.debian.org/" target="_blank">
+                <img src="https://img.shields.io/badge/debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+            </a>
+            <a title="Windows" href="https://www.microsoft.com/es-es/windows" target="_blank">
+                <img src="https://img.shields.io/badge/windows-%230078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">IDEs & Editors</td>
+        <td align="center">
+            <a title="VS Code" href="https://code.visualstudio.com/" target="_blank">
+                <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+            </a>
+            <a title="IntelliJ IDEA" href="https://www.jetbrains.com/idea/" target="_blank">
+                <img src="https://img.shields.io/badge/intellij%20idea-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+            </a>
+        </td>
+    </tr>
+</table>
+
+[gh_profile]: <https://github.com/mateogonzalezlourido>
+</div>
