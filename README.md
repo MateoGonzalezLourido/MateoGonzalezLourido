@@ -25,10 +25,6 @@
      <a title="C" href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
                 <img src="https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     </a>
-    <a title="R" href="https://www.r-project.org/" target="_blank">
-  <img src="https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  </a>
-
   </td>
 </tr>
 <tr>
@@ -67,6 +63,9 @@
      <a title="Supabase" href="https://supabase.com/" target="_blank">
       <img src="https://img.shields.io/badge/Supabase-242424?style=for-the-badge&logo=supabase&logoSize=64" alt="Supabase">
     </a>
+        <a title="R" href="https://www.r-project.org/" target="_blank">
+  <img src="https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  </a>
   </td>
 </tr>
  <tr>
