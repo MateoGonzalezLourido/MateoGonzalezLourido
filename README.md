@@ -72,5 +72,5 @@
 
 <i>🌸This is a basic and temporary readme🌸</i>
 
-[gh_profile]: <https://github.com/mateogonzalezlourido>
+[gh_profile]: <https://github.com/MateoGonzalezLourido>
 </div>
