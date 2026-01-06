@@ -68,20 +68,6 @@
   </a>
   </td>
 </tr>
-    <tr>
-        <td align="center">IDEs & Editors</td>
-        <td align="center">
-            <a title="VS Code" href="https://code.visualstudio.com/" target="_blank">
-                <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-            </a>
-            <a title="IntelliJ IDEA" href="https://www.jetbrains.com/idea/" target="_blank">
-                <img src="https://img.shields.io/badge/intellij%20idea-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-            </a>
-          <a title="RStudio" href="https://www.rstudio.com/" target="_blank">
-        <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/>
-      </a>
-        </td>
-    </tr>
 </table>
 
 <i>🌸This is a basic and temporary readme🌸</i>
