@@ -19,9 +19,6 @@
      <a title="JavaScript" href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
                 <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>    
      </a>
-    <a title="Python" href="https://www.python.org/" target="_blank">
-                <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    </a>
      <a title="C" href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
                 <img src="https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     </a>
