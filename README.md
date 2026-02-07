@@ -60,9 +60,6 @@
         <a title="R" href="https://www.r-project.org/" target="_blank">
   <img src="https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   </a>
-    <a title="MongoDB Atlas" href="https://www.mongodb.com/cloud/atlas" target="_blank">
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas"/>
-</a>
 
   </td>
 </tr>
