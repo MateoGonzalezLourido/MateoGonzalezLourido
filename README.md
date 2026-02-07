@@ -46,6 +46,9 @@
     <a title="Node.js" href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   </a>
+    <a title="Electron" href="https://www.electronjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+</a>
   </td>
 </tr>
 <tr>
