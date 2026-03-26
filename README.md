@@ -54,13 +54,28 @@
 <tr>
   <td>Data</td>
   <td>
+    <a title="MongoDB" href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</a>
      <a title="Supabase" href="https://supabase.com/" target="_blank">
       <img src="https://img.shields.io/badge/Supabase-242424?style=for-the-badge&logo=supabase&logoSize=64" alt="Supabase">
     </a>
-        <a title="R" href="https://www.r-project.org/" target="_blank">
-  <img src="https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  </a>
+  </td>
+</tr>
+<tr>
+  <td>Futuras</td>
+  <td>
+    <a title="Rust" href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/rust-%23000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+</a>
 
+<a title="C" href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</a>
+
+<a title="Tauri" href="https://tauri.app/" target="_blank">
+    <img src="https://img.shields.io/badge/tauri-%2324C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri"/>
+</a>
   </td>
 </tr>
 </table>
