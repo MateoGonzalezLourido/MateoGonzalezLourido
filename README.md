@@ -63,7 +63,7 @@
   </td>
 </tr>
 <tr>
-  <td>Futuras</td>
+  <td>Future</td>
   <td>
     <a title="Rust" href="https://www.rust-lang.org/" target="_blank">
     <img src="https://img.shields.io/badge/rust-%23000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
