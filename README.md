@@ -53,7 +53,7 @@
 </tr>
 </table>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MateoGonzalezLourido&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MateoGonzalezLourido&show&hide_rank=true_icons=true&theme=dark)
 
 [gh_profile]: <https://github.com/MateoGonzalezLourido>
 </div>
