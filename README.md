@@ -54,9 +54,16 @@
 </tr>
 </table>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MateoGonzalezLourido&show_icons=true&hide_rank=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MateoGonzalezLourido&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MateoGonzalezLourido&show_icons=true&hide_rank=true&theme=tokyonight"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=MateoGonzalezLourido&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
 
 [gh_profile]: <https://github.com/MateoGonzalezLourido>
 
