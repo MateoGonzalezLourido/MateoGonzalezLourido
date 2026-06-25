@@ -14,6 +14,9 @@
      <a title="JavaScript" href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
                 <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>    
      </a>
+    <a title="TypeScript" href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    </a>
   </td>
 </tr>
   <td align="center">Web tools & frameworks</td>
@@ -47,9 +50,6 @@
 
 <a title="Tauri" href="https://tauri.app/" target="_blank">
     <img src="https://img.shields.io/badge/tauri-%2324C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri"/>
-</a>
-<a title="TypeScript" href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </a>
   </td>
 </tr>
