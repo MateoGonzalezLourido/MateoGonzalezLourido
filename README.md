@@ -54,25 +54,6 @@
   </td>
 </tr>
 </table>
-<table>
-  <tr>
-    <td>Best skills</td>
-    <td>
-           <a title="JavaScript" href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-                <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>    
-     </a>
-          <a title="Node.js" href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  </a>
-          <a title="Electron" href="https://www.electronjs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
-</a>
-       <a title="MongoDB" href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</a>
-    </td>
-  </tr>
-</table>
 <i>🌸This is a basic and temporary readme🌸</i>
 
 [gh_profile]: <https://github.com/MateoGonzalezLourido>
