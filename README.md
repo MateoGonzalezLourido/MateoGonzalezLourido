@@ -1,7 +1,5 @@
 <div id="content" align="center"> 
 
-[![Welcome to my GitHub profile!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=5000&color=70a5fd&center=true&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub+profile!)][gh_profile]
-
 [![Welcome to my GitHub profile!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=2000&color=70a5fd&center=true&vCenter=true&repeat=true&width=600&lines=Welcome+to+my+GitHub+profile!;CS+Student+%40+UDC+·+Open+source+contributor;Into+systems+programming,+desktop+apps+%26+Linux)][gh_profile]
 
 <table>
