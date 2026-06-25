@@ -6,7 +6,7 @@
 <!-- https://github.com/denvercoder1/readme-typing-svg -->
 [![Welcome to my GitHub profile!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=5000&color=2791F5&center=true&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub+profile!)][gh_profile]
 <table>
-<caption><h2>My skills</h2></caption>
+<h2>My skills</h2>
 <tr>
   <td>Programming language</td>
   <td>
@@ -53,7 +53,6 @@
   </td>
 </tr>
 </table>
-<i>🌸This is a basic and temporary readme🌸</i>
 
 [gh_profile]: <https://github.com/MateoGonzalezLourido>
 </div>
