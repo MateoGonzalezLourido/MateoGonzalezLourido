@@ -1,7 +1,5 @@
 <!--this is a basic & temporal Readme-->
 <div id="content" align="center"> 
-  
-<a target="_top" href="https://www.flamingtext.com/"><img src="https://blog.flamingtext.com/blog/2025/11/13/flamingtext_com_1763033474_956242197.png" border="0" alt="HAPPY DAY" title="Logo Design by FlamingText.com"></a>
 
 [![Welcome to my GitHub profile!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=5000&color=70a5fd&center=true&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub+profile!)][gh_profile]
 
