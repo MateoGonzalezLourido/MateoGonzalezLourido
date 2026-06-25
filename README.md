@@ -42,9 +42,6 @@
   <td>
     <a title="MongoDB" href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</a>
-     <a title="Supabase" href="https://supabase.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Supabase-242424?style=for-the-badge&logo=supabase&logoSize=64" alt="Supabase">
     </a>
   </td>
 </tr>
