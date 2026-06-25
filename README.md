@@ -56,6 +56,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MateoGonzalezLourido&show_icons=true&hide_rank=true&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=MateoGonzalezLourido&theme=tokyonight)
+
 [gh_profile]: <https://github.com/MateoGonzalezLourido>
 
 </div>
