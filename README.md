@@ -16,17 +16,6 @@
      </a>
   </td>
 </tr>
-<tr>
-<td align="center">Web Design</td>
-  <td align="center">
-  <a title="HTML5" href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-       <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a title="CSS3" href="https://en.wikipedia.org/wiki/CSS#CSS_3" target="_blank">
-       <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-</tr>
-<tr>
   <td align="center">Web tools & frameworks</td>
   <td>
     <a title="Node.js" href="https://nodejs.org/" target="_blank">
