@@ -5,8 +5,9 @@
 
 [![Welcome to my GitHub profile!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=5000&color=2791F5&center=true&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub+profile!)][gh_profile]
 
-## My skills
+
 <table>
+  <caption><b>My Skylls</b></caption>
 <tr>
   <td>Programming language</td>
   <td>
