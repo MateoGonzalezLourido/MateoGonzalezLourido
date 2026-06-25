@@ -29,15 +29,6 @@
 <tr>
   <td align="center">Web tools & frameworks</td>
   <td>
-    <a title="Astro" href="https://astro.build/" target="_blank">
-      <img src="https://img.shields.io/badge/Astro-242424?style=for-the-badge&logo=astro&logoSize=64" alt="Astro">
-    </a>
-    <a title="Vite" href="https://vite.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/Vite-242424?style=for-the-badge&logo=vite&logoSize=64" alt="Vite">
-    </a>
-    <a title="Tailwind" href="https://tailwindcss.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Tailwind-242424?style=for-the-badge&logo=tailwindcss&logoSize=64" alt="Tailwind">
-    </a>
     <a title="Node.js" href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   </a>
